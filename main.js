@@ -69,16 +69,16 @@ console.log("hai "+ anninaomi + " e ti mancano " + anniPerArrivareACento +" anni
 
 
 
-// let variabile1 = parseInt(prompt("inserisci un numero"));
-// let variabile2 = parseInt(prompt("inserisci un numero"));
+let variabile1 = parseInt(prompt("inserisci un numero"));
+let variabile2 = parseInt(prompt("inserisci un numero"));
 
-// let somma1 = variabile1+variabile2;
-// let sottrazione1 = variabile1-variabile2;
-// let moltiplicazione1 = variabile1*variabile2;
-// let divisione1 = variabile1/variabile2;
-// let potenza = variabile1
+let somma1 = variabile1+variabile2;
+let sottrazione1 = variabile1-variabile2;
+let moltiplicazione1 = variabile1*variabile2;
+let divisione1 = variabile1/variabile2;
+let potenza = variabile1
 
-// console.log( "in base ai numeri scelti i risultati delle varie operazioni sono : somma ="+somma1 +" sottrazione= " + sottrazione1+ " moltiplicazione= "+ moltiplicazione1 + " divisione= "+divisione1 );
+console.log( "in base ai numeri scelti i risultati delle varie operazioni sono : somma ="+somma1 +" sottrazione= " + sottrazione1+ " moltiplicazione= "+ moltiplicazione1 + " divisione= "+divisione1 );
 
 
 
