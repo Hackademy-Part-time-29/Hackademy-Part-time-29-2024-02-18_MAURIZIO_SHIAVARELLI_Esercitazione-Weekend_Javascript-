@@ -64,15 +64,48 @@ console.log("hai "+ anninaomi + " e ti mancano " + anniPerArrivareACento +" anni
 // console.log( "in base ai numeri scelti i risultati delle varie operazioni sono : somma ="+somma1 +" sottrazione= " + sottrazione1+ " moltiplicazione= "+ moltiplicazione1 + " divisione= "+divisione1 )
 
 
-let variabile1 = parseInt(prompt("inserisci un numero"));
-let variabile2 = parseInt(prompt("inserisci un numero"));
 
-let somma1 = variabile1+variabile2;
-let sottrazione1 = variabile1-variabile2;
-let moltiplicazione1 = variabile1*variabile2;
-let divisione1 = variabile1/variabile2;
 
-console.log( "in base ai numeri scelti i risultati delle varie operazioni sono : somma ="+somma1 +" sottrazione= " + sottrazione1+ " moltiplicazione= "+ moltiplicazione1 + " divisione= "+divisione1 );
+
+
+
+// let variabile1 = parseInt(prompt("inserisci un numero"));
+// let variabile2 = parseInt(prompt("inserisci un numero"));
+
+// let somma1 = variabile1+variabile2;
+// let sottrazione1 = variabile1-variabile2;
+// let moltiplicazione1 = variabile1*variabile2;
+// let divisione1 = variabile1/variabile2;
+// let potenza = variabile1
+
+// console.log( "in base ai numeri scelti i risultati delle varie operazioni sono : somma ="+somma1 +" sottrazione= " + sottrazione1+ " moltiplicazione= "+ moltiplicazione1 + " divisione= "+divisione1 );
+
+
+
+
+
+
+// esercizio numero 4
+
+let array_1 =[["un", "per", "incatenarli"],["anello","trovarli"],["ghermirli", "e"],['gondor','mark']];
+// let array_1 =["un", "per", "incatenarli","anello","trovarli","ghermirli","e","gondor", "mark"];
+
+let array_2 =[["trovarli"],["tu","sciocchi"],["tu","sciocchi",["padron","sauron"]],["nel",["fugite","gandalf"]],[["domarli","passare"],"buio"]];
+
+console.log(array_1);
+
+console.log(array_2);
+
+
+// Un Anello per domarli, un Anello per trovarli, un Anello per ghermirli e nel buio incatenarli.
+
+console.log(array_1[0][0]," "+ array_1[1][0]," "+ array_1[0][1]," "+ array_2[4][0][0],"," + array_1[0][0]," "+ array_1[1][0]," " + array_1[0][1]," " + array_2[0][0]," " + array_1[0][0]," "+ array_1[1][0]," "+ array_1[0][1]," " + array_1[2][0]," "+ array_1[2][1]," "+ array_2[3][0]," "+ array_2[4][1] ," "+array_1[0][2], ".")
+
+
+
+
+
+
 
 
 
